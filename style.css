@@ -18,8 +18,6 @@ body {
   height: auto;
   margin: auto;
   padding: 30px;
-  /**background properties in shorthand**/
-  /* background: #000 url('images/curls.png') repeat top left fixed; */
 }
 
 .heading {
@@ -44,7 +42,6 @@ body {
 }
 
 .description {
-  /*display: none;*/
   overflow-y: hidden;
   max-height: 0;
 }
